@@ -1,3 +1,3 @@
 # Calculadora
 Repositorio del proyecto de la calculadora
-En donde se ejecutará el menu de opciones de una calculadora
+Aquí se explicará c+omo ejecutar el código además de agregar una licencia que se ajuste más a nuestro proyecto
