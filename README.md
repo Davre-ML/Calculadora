@@ -2,15 +2,13 @@
 Repositorio del proyecto de la calculadora
 Aquí se explicará c+omo ejecutar el código además de agregar una licencia que se ajuste más a nuestro proyecto
 -----------------------------------------------------------------------------------
-El repositorio deberá contener un archivo main.py  donde se ejecutará el menú de opciones de una calculadora.
+1.- El código de la suma simplemente se utiliza ingresando 2 números y obteniendo el resultado
+2.- El código de la resta se utiliza ingresando 2 números y obteniendo el resultado
+3.- El código de la  multiplicación funciona ingresando 2 números y obteniendo el resultado
+4.- El código de la división funciona ingresando 2 números y obteniendo el resultado
+5.- El código de la suma avanzada funciona ingresando una serie de números separados por una coma y obteniendo el resultado
 
-El repositorio deberá contener un archivo sumar.py el cual contendrá el la función para sumar 2 números.
+--------------------------------------------------------------------------------------
+## Licencia
 
-El repositorio deberá contener un archivo resta.py el cual contendrá el la función para restar 2 números.
-
-El repositorio deberá contener un archivo multplicacion.py el cual contendrá el la función para multiplicar 2 números.
-
-El repositorio deberá contener un archivo dividir.py el cual contendrá el la función para dividir 2 números.
-
-El repositorio deberá contener un archivo suma_avanzada.py el cual contendrá el la función para sumar una N cantidad de números.
-
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
