@@ -1,6 +1,6 @@
 # Calculadora
 Repositorio del proyecto de la calculadora
-Aquí se explicará c+omo ejecutar el código además de agregar una licencia que se ajuste más a nuestro proyecto
+Aquí se explicará como ejecutar el código además de agregar una licencia que se ajuste más a nuestro proyecto
 -----------------------------------------------------------------------------------
 1.- El código de la suma simplemente se utiliza ingresando 2 números y obteniendo el resultado
 2.- El código de la resta se utiliza ingresando 2 números y obteniendo el resultado
